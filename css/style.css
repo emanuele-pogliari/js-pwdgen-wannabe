@@ -1,0 +1,60 @@
+* {
+    font-family: sans-serif;
+
+}
+
+.logo {
+    width: 20px;
+}
+
+.salute {
+    font-size: 50px;
+}
+
+.card {
+    padding: 10px;
+    width: 300px;
+    background-color: rgb(215, 0, 68);
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+    color: white;
+}
+
+.card-container {
+    display: flex;
+    align-items: start;
+    gap: 20px;
+}
+
+.lets {
+    width: 200px;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.data {
+    text-align: center;
+    color: white;
+}
+
+
+.my-data {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#name,
+#surname,
+#color,
+#password {
+    background-color: white;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+}
