@@ -34,7 +34,7 @@
 
 .lets {
     width: 200px;
-    line-height: 20px;
+
     font-size: 20px;
 }
 
@@ -57,4 +57,5 @@
     height: 30px;
     border-radius: 5px;
     color: black;
+    line-height: 30px;
 }
